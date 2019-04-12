@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  BookListCell.h
 //  PageAnimation
 //
 //  Created by WXQ on 2019/4/4.
@@ -8,8 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+UIKIT_EXTERN NSString *const BookListCellIdentifier;
 
+@interface BookListCell : UICollectionViewCell
 
 @end
-
