@@ -2,8 +2,8 @@
 //  PageAnimationController.m
 //  PageAnimation
 //
-//  Created by WXQ on 2019/4/4.
-//  Copyright © 2019 WXQ. All rights reserved.
+//  GitHub: https://github.com/wuyukobe24/OpenBookAnimation
+//  简书地址：https://www.jianshu.com/p/15256db187c6
 //
 
 #import "PageAnimationController.h"
